@@ -1,0 +1,24 @@
+.footer {
+    background-color: black;
+    text-align: left;
+}
+ul {
+    margin: 0;
+    padding: 12px;
+    background-color: black;
+    display: inline;
+    font-size: 10pt;
+}
+a{
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    font-family: arial;
+}
+li {
+    display: inline;
+    background-color: black;
+}
+.google-font-text {
+    font-family: 'Proza Libre', sans-serif;
+}
